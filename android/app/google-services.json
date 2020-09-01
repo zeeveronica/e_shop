@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160232138191",
+    "project_id": "eshop-e19cd",
+    "storage_bucket": "eshop-e19cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160232138191:android:003074ba851d26c7981eba",
+        "android_client_info": {
+          "package_name": "com.veronica.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160232138191-ltlrldn966e83mt8jb0s61baerp0qt6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQor9YFZD06RiwTmMEXBBjDIsK0iyRdhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160232138191-ltlrldn966e83mt8jb0s61baerp0qt6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
